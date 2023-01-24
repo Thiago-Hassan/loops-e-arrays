@@ -2,7 +2,8 @@ package br.com.dio.exercicios.loops;
 
 import java.util.Scanner;
 
-/*
+
+ /*Codigo redigitado para fins de aprendizado*/
 Faça um programa que peça uma nota, entre zero e dez.
 Mostre uma mensagem caso o valor seja inválido
 e continue pedindo
